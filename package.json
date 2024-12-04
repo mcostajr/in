@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "type": "module",
-  "homepage": "https://mcostajr.github.io/my-portfolio",
+  "homepage": "https://mcostajr.github.io/in",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
